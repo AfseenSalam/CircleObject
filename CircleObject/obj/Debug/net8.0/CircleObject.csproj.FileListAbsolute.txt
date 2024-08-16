@@ -1,0 +1,14 @@
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.AssemblyInfoInputs.cache
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.AssemblyInfo.cs
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.csproj.CoreCompileInputs.cache
+D:\GC Practice\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.exe
+D:\GC Practice\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.deps.json
+D:\GC Practice\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.runtimeconfig.json
+D:\GC Practice\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.dll
+D:\GC Practice\CircleObject\CircleObject\bin\Debug\net8.0\CircleObject.pdb
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.dll
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\refint\CircleObject.dll
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.pdb
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.genruntimeconfig.cache
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\ref\CircleObject.dll

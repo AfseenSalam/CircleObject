@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GC Practice\\CircleObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3109D145-14B7-4360-92F1-25927F4FDD48}|CircleObject\\CircleObject.csproj|d:\\gc practice\\circleobject\\circleobject\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109D145-14B7-4360-92F1-25927F4FDD48}|CircleObject\\CircleObject.csproj|solutionrelative:circleobject\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3109D145-14B7-4360-92F1-25927F4FDD48}|CircleObject\\CircleObject.csproj|d:\\gc practice\\circleobject\\circleobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109D145-14B7-4360-92F1-25927F4FDD48}|CircleObject\\CircleObject.csproj|solutionrelative:circleobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3109D145-14B7-4360-92F1-25927F4FDD48}|CircleObject\\CircleObject.csproj|d:\\gc practice\\circleobject\\circleobject\\validatation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109D145-14B7-4360-92F1-25927F4FDD48}|CircleObject\\CircleObject.csproj|solutionrelative:circleobject\\validatation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validatation.cs",
+              "DocumentMoniker": "D:\\GC Practice\\CircleObject\\CircleObject\\Validatation.cs",
+              "RelativeDocumentMoniker": "CircleObject\\Validatation.cs",
+              "ToolTip": "D:\\GC Practice\\CircleObject\\CircleObject\\Validatation.cs",
+              "RelativeToolTip": "CircleObject\\Validatation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:08:54.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\GC Practice\\CircleObject\\CircleObject\\Circle.cs",
+              "RelativeDocumentMoniker": "CircleObject\\Circle.cs",
+              "ToolTip": "D:\\GC Practice\\CircleObject\\CircleObject\\Circle.cs",
+              "RelativeToolTip": "CircleObject\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:07:08.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GC Practice\\CircleObject\\CircleObject\\Program.cs",
+              "RelativeDocumentMoniker": "CircleObject\\Program.cs",
+              "ToolTip": "D:\\GC Practice\\CircleObject\\CircleObject\\Program.cs",
+              "RelativeToolTip": "CircleObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:48:01.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
