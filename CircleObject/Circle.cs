@@ -9,9 +9,9 @@ namespace CircleObject
     class Circle
     {
         private double radius;
-        public Circle(double radius)
+        public Circle(double _radius)
         {
-            this.radius = radius;
+            radius = _radius;
         }
         public double CalculateDiameter()
         {

@@ -12,3 +12,4 @@ D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\refint\CircleObject.dl
 D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.pdb
 D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.genruntimeconfig.cache
 D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\ref\CircleObject.dll
+D:\GC Practice\CircleObject\CircleObject\obj\Debug\net8.0\CircleObject.sourcelink.json
